@@ -155,7 +155,7 @@ section h3::after {
 section p.ringkasan {
   font-style: italic;
   font-size: 18px;
-  color: white;
+  color:  #ffff;
 }
 section .konten-isi p {
   font-style: normal;
